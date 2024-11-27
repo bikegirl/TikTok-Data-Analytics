@@ -14,7 +14,7 @@ TikTok is a short-form video-sharing platform that empowers users ( aka "influen
 
 # Phase-2
 
-Understand The Data
+[Understand The Data](./Phase-2)
 
 # Phase-3
 
