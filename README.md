@@ -18,7 +18,9 @@ TikTok is a short-form video-sharing platform that empowers users ( aka "influen
 
 # Phase-3
 
-EDA: Exploratory Data Analysis
+[EDA: Exploratory Data Analysis](./Phase-3)
+
+You may view all my current vizzes [here](https://public.tableau.com/app/profile/rebecca.iglesias.flores/vizzes)
 
 # Phase-4
 
