@@ -24,7 +24,7 @@ You may view all my current vizzes [here](https://public.tableau.com/app/profile
 
 # Phase-4
 
-Statistical Test
+[Statistical Test](./Phase-4)
 
 # Phase-5
 
