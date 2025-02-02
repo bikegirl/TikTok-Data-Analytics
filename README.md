@@ -36,6 +36,14 @@ As I progress through my capstone project, I have made the decision to transitio
 
 Thank you for following along—I'm excited to share the insights ahead!
 
+### A Quick Look at Automitadata
+
+Automidata is all about helping businesses make sense of their data and use it to drive smarter decisions. Whether it's building dashboards for better business insights or creating customer-facing tools, they specialize in turning raw data into meaningful solutions.
+
+One of their key clients is the NYC Taxi and Limousine Commission (TLC), the agency responsible for licensing and regulating taxis and for-hire vehicles across New York City. The TLC has partnered with Automidata to develop a regression model that accurately predicts taxi fares based on years of collected trip data. This project is a great opportunity to tackle real-world challenges in predictive modeling while improving fare estimations for both drivers and passengers.
+
+This project is an incredible opportunity for us to collaborate with one of the largest clients in the state and contribute to a company that plays a vital role in serving the public. By leveraging data-driven insights, we aim to ensure fair and accurate pricing for riders while supporting a service that directly impacts the daily lives of so many people.
+
 # Phase-6
 
 Machine Learning Models
