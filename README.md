@@ -30,7 +30,11 @@ You may view all my current vizzes [here](https://public.tableau.com/app/profile
 
 [Regression Modeling](./Phase-5)
 
-NOTE: At this phase in the project, I purposefully chose to change the dataset I've been working on for the rest of my capstone from TikTok to the Automitada dataset.  Automitadata is demonstrated for a continuous value prediction use case in regression modeling, and as such, presents a set of new interesting questions and challenges to solve.
+**Note to Readers**:
+
+	As I progress through my capstone project, I have made the decision to transition from the TikTok dataset to the Automidata dataset for the remainder of my regression and machine learning work. While working with both the TikTok and Waze datasets, I realized they presented similar challenges and problem structures. To introduce a fresh set of analytical questions and new modeling opportunities, I have chosen Automidata, which is well-suited for continuous value prediction in regression modeling. This shift allows for deeper exploration of predictive techniques and provides a more diverse set of challenges to solve.
+
+	Thank you for following along—I'm excited to share the insights ahead!
 
 # Phase-6
 
