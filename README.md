@@ -28,7 +28,21 @@ You may view all my current vizzes [here](https://public.tableau.com/app/profile
 
 # Phase-5
 
-Regression Modeling
+[Regression Modeling](./Phase-5)
+
+**Note to Readers**:
+
+As I progress through my capstone project, I have made the decision to transition from the TikTok dataset to the Automidata dataset for the remainder of my regression and machine learning work. While working with both the TikTok and Waze datasets, I realized they presented similar challenges and problem structures. To introduce a fresh set of analytical questions and new modeling opportunities, I have chosen Automidata, which is well-suited for continuous value prediction in regression modeling. This shift allows for deeper exploration of predictive techniques and provides a more diverse set of challenges to solve.
+
+Thank you for following along—I'm excited to share the insights ahead!
+
+### A Quick Look at Automitadata
+
+Automidata is all about helping businesses make sense of their data and use it to drive smarter decisions. Whether it's building dashboards for better business insights or creating customer-facing tools, they specialize in turning raw data into meaningful solutions.
+
+One of their key clients is the NYC Taxi and Limousine Commission (TLC), the agency responsible for licensing and regulating taxis and for-hire vehicles across New York City. The TLC has partnered with Automidata to develop a regression model that accurately predicts taxi fares based on years of collected trip data. This project is a great opportunity to tackle real-world challenges in predictive modeling while improving fare estimations for both drivers and passengers.
+
+This project is an incredible opportunity for us to collaborate with one of the largest clients in the state and contribute to a company that plays a vital role in serving the public. By leveraging data-driven insights, we aim to ensure fair and accurate pricing for riders while supporting a service that directly impacts the daily lives of so many people.
 
 # Phase-6
 
