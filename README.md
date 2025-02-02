@@ -28,7 +28,9 @@ You may view all my current vizzes [here](https://public.tableau.com/app/profile
 
 # Phase-5
 
-Regression Modeling
+[Regression Modeling](./Phase-5)
+
+NOTE: At this phase in the project, I purposefully chose to change the dataset I've been working on for the rest of my capstone from TikTok to the Automitada dataset.  Automitadata is demonstrated for a continuous value prediction use case in regression modeling, and as such, presents a set of new interesting questions and challenges to solve.
 
 # Phase-6
 
