@@ -46,7 +46,7 @@ This project is an incredible opportunity for us to collaborate with one of the 
 
 # Phase-6
 
-Machine Learning Models
+[Machine Learning Models](./Phase-6)
 
 # Phase-7
 
